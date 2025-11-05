@@ -1,14 +1,14 @@
-<h1 align="center">🎮👊 Hey, I'm Gustavo!</h1>
+<h1 align="center">🎮🥋 Hey, I'm Gustavo!</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/fAq_yZ4GQ2YAAAAC/taekwondo-kick.gif" width="280px" alt="Taekwondo Gamer GIF">
+  <img src="https://media.tenor.com/9vGzOkjDClAAAAAC/tekken-jin-kazama.gif" width="300px" alt="Taekwondo Gamer GIF">
 </p>
 
 ---
 
 ### 💻 About Me
 > I'm a **Systems Development student**, passionate about **technology, design, and martial arts (Taekwondo)**.  
-> Always combining code, creativity, and discipline. 🥋
+> Combining code, creativity, and discipline every day.
 
 ---
 
@@ -56,19 +56,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGustavo-lac&layout=compact&theme=tokyonight" alt="Top Langs">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GGustavo-lac&theme=tokyonight" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=GGustavo-lac&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 ---
 
 ### 🥋 Taekwondo Zone
 <p align="center">
-  <img src="https://media.tenor.com/jTyzMjJjBLsAAAAC/taekwondo-fight.gif" width="270px" alt="Taekwondo Gamer Animation">
-  <img src="https://media.tenor.com/TZyYzZ3bTqUAAAAC/taekwondo-spinning-kick.gif" width="270px" alt="Taekwondo Kick">
+  <img src="https://media.tenor.com/yYHEpZbvh4gAAAAd/taekwondo-fighter.gif" width="270px" alt="Taekwondo Fighter">
+  <img src="https://media.tenor.com/IWdn2Twr7j8AAAAC/martial-arts-kick.gif" width="270px" alt="Taekwondo Kick">
+  <img src="https://media.tenor.com/IMLhBdzYoDIAAAAC/tekken-hwoarang.gif" width="270px" alt="Hwoarang Taekwondo">
 </p>
 
 ---

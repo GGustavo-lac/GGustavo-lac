@@ -1,86 +1,59 @@
-<h1 align="center">🎮🥋 Gustavo</h1>
+<!-- 🥋 README de Gustavo Lacerda - Estilo Gamer / Taekwondo -->
+
+<h1 align="center">👋 Olá, eu sou <span style="color:#0044cc;">Gustavo Lacerda</span></h1>
+<h3 align="center">💻 Desenvolvedor de Sistemas | 🥋 Atleta de Taekwondo | 🎮 Gamer & Criador</h3>
+
+---
 
 <p align="center">
-  <img src="https://media.tenor.com/9vGzOkjDClAAAAAC/tekken-jin-kazama.gif" width="340px" alt="Taekwondo Gamer GIF">
+  <img src="https://media.tenor.com/ZsZh0IkjYgEAAAAC/taekwondo-kick.gif" width="400"/>
 </p>
 
 ---
 
-<h2 align="center">💻 About Me</h2>
+## 🧠 Sobre mim
+- 📚 Cursando **Desenvolvimento de Sistemas (Inglês)**
+- 💪 Focado em unir **tecnologia e disciplina** do taekwondo
+- 📩 Contatos: **Email | Instagram | LinkedIn**
+- ⚙️ Ferramentas que uso:
+  - 💻 **Visual Studio Code** | **NetBeans**
+  - 🎨 **Figma**, **Canva**, **Photoshop**
 
+---
+
+## 🚀 Skills & Ferramentas
 <p align="center">
-  I'm a <b>Systems Development student</b> passionate about <b>technology, design, and martial arts (Taekwondo)</b>.<br>
-  Combining <b>code</b>, <b>creativity</b>, and <b>discipline</b> every day.
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,figma,photoshop,canva,vscode,netbeans" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Social Medias</h2>
-
+## 🥋 Taekwondo Vibes
 <p align="center">
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/seulinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/seuinstagram">
-    <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  <img src="https://media.tenor.com/4mUjCH_nKxgAAAAd/taekwondo-fight.gif" width="300" />
+  <img src="https://media.tenor.com/bDeiqcNhq2cAAAAC/taekwondo-training.gif" width="300" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Learning & Skills</h2>
-
-<h3 align="center">💻 Programming & Tech</h3>
+## ⚡ Status & Linguagens
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-001F3F?style=for-the-badge&logo=html5&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/CSS3-001F3F?style=for-the-badge&logo=css3&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Python-001F3F?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Java-001F3F?style=for-the-badge&logo=java&logoColor=white" height="35px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGustavo-lac&layout=compact&theme=radical" />
 </p>
 
-<h3 align="center">🎨 Design Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-001F3F?style=for-the-badge&logo=figma&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Canva-8B0000?style=for-the-badge&logo=canva&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Photoshop-001F3F?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="35px">
-</p>
-
-<h3 align="center">🧠 IDE's</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/NetBeans-001F3F?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="35px">
+  <img src="https://github-readme-stats.vercel.app/api?username=GGustavo-lac&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
+## 🎮 Estilo Gamer
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GGustavo-lac&show_icons=true&theme=tokyonight" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGustavo-lac&layout=compact&theme=tokyonight" height="160px">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GGustavo-lac&theme=tokyonight" height="160px">
+  <img src="https://media.tenor.com/xS8U8yIYyXwAAAAC/gamer-anime.gif" width="350"/>
 </p>
 
 ---
 
-<h2 align="center">🥋 Taekwondo Zone</h2>
-
-<p align="center">
-  <img src="https://media.tenor.com/yYHEpZbvh4gAAAAd/taekwondo-fighter.gif" width="280px" alt="Taekwondo Fighter">
-  <img src="https://media.tenor.com/IWdn2Twr7j8AAAAC/martial-arts-kick.gif" width="280px" alt="Taekwondo Kick">
-  <img src="https://media.tenor.com/IMLhBdzYoDIAAAAC/tekken-hwoarang.gif" width="280px" alt="Hwoarang Taekwondo">
-</p>
+<h3 align="center">🔥 “Disciplina cria resultados — no código e no tatame.” 🔥</h3>
 
 ---
-
-<h3 align="center">
-💬 “Code like a fighter — focus, adapt, and strike with precision.”  
-<br>— Gustavo
-</h3>

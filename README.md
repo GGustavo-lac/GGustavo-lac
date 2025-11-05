@@ -1,81 +1,66 @@
-<!-- 🥋 Gustavo Lacerda | Gamer & Developer README -->
-
-<h1 align="center">Gustavo Lacerda</h1>
+<!-- README - Gustavo Lacerda -->
+<h1 align="center">👋 Hey, I'm Gustavo Lacerda (GGustavo-lac)</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/ZsZh0IkjYgEAAAAC/taekwondo-kick.gif" width="400">
-</p>
-
-<h3 align="center">I'm a Systems Development student and Taekwondo athlete 🥋</h3>
-
----
-
-## 🌐 Social Medias
-<p align="center">
-  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/seuinstagram" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://media.tenor.com/ya3XvVUbIYgAAAAC/taekwondo-kick.gif" width="200"/>
 </p>
 
 ---
 
-## 📚 Learning
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GGustavo-lac&theme=radical&hide_border=true" alt="streak graph" />
-</p>
+<h2 align="center">💻 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LINUX-0A66C2?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JAVA-b30000?style=for-the-badge&logo=java&logoColor=white" />
+🎓 I'm a student of <strong>Systems Development</strong>  
+💬 I love <strong>programming, design, and martial arts</strong>  
+📫 Contact me at: <a href="mailto:gustavo4kps4@gmail.com">gustavo4kps4@gmail.com</a>  
+🌐 Follow me on <a href="https://www.instagram.com/guh.lacerdaa?igsh=MTZsdnhlMTBqbWp4dg==">Instagram</a>  
+💼 LinkedIn (coming soon)
 </p>
 
 ---
 
-## 🎨 Design Tools
+<h2 align="center">🧰 Tools I Use</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,netbeans,html,css,js,java,python" />
 </p>
 
 ---
 
-## 🧠 IDE's
+<h2 align="center">🎨 Design Tools</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/NETBEANS-002F6C?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
 </p>
 
 ---
 
-## ⚔️ Taekwondo Vibes
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://media.tenor.com/4mUjCH_nKxgAAAAd/taekwondo-fight.gif" width="250" />
-  <img src="https://media.tenor.com/bDeiqcNhq2cAAAAC/taekwondo-training.gif" width="250" />
-  <img src="https://media.tenor.com/e3NzzQAVZtYAAAAC/martial-arts-taekwondo.gif" width="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GGustavo-lac&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="400"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGustavo-lac&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117" width="400"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">🥋 Taekwondo Spirit</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GGustavo-lac&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGustavo-lac&layout=compact&theme=radical" height="180em" />
+  <img src="https://media.tenor.com/6a1lYbZzssUAAAAC/taekwondo-anime.gif" width="250"/>
+  <img src="https://media.tenor.com/h3QxwrZj4dUAAAAd/martial-arts-taekwondo.gif" width="250"/>
+  <img src="https://media.tenor.com/3WPOBbo0YpcAAAAC/karate-fight.gif" width="250"/>
 </p>
 
 ---
 
-<h3 align="center">🔥 Discipline creates results — in code and on the mat. 🔥</h3>
+<h2 align="center">🎮 Coder & Fighter Mode</h2>
 
 <p align="center">
-  <img src="https://media.tenor.com/xS8U8yIYyXwAAAAC/gamer-anime.gif" width="350" />
+  <img src="https://media.tenor.com/l7bXvU1o8IYAAAAd/gamer-coding.gif" width="250"/>
+  <img src="https://media.tenor.com/J6vRklN2G3kAAAAC/hacker-typing.gif" width="250"/>
 </p>
+
+---
+
+<h3 align="center">💬 “Keep fighting — in code and in life.” 🥋💻</h3>

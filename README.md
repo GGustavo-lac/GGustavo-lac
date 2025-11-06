@@ -52,8 +52,8 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 
-  <!-- Gmail (abre o email) -->
-  <a href="mailto:gustavo4kps4@gmail.com" target="_blank" rel="noopener noreferrer" title="Enviar email para gustavo4kps4@gmail.com">
+  <!-- Gmail (abre página de envio do Gmail) -->
+  <a href="https://mail.google.com/mail/?view=cm&to=gustavo4kps4@gmail.com" target="_blank" rel="noopener noreferrer" title="Enviar email via Gmail">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
@@ -62,11 +62,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
-  <!-- Outlook (abre o email) -->
-  <a href="mailto:gustavo.brito62@etec.sp.gov.br" target="_blank" rel="noopener noreferrer" title="Enviar email para gustavo4kps4@gmail.com">
+  <!-- Outlook (abre página de envio do Outlook online) -->
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=gustavo.brito62@etec.sp.gov.br" target="_blank" rel="noopener noreferrer" title="Enviar email via Outlook">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
   </a>
 </div>
+
 
 ###
 

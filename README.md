@@ -42,11 +42,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMWpjdW45a2Rrc216ejliMGFqNXk4OWUzOW53aTViNGFtanB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif"  />
+<h2 align="center">Social Medias</h2>
 
 ###
 
-<h2 align="center">Social Medias</h2>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMWpjdW45a2Rrc216ejliMGFqNXk4OWUzOW53aTViNGFtanB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif"  />
 
 ###
 
@@ -76,9 +76,3 @@
 </div>
 
 ###
-
-<h3 align="center">🔥 Discipline creates results — in code and on the mat. 🔥</h3>
-
-<p align="center">
-  <img src="https://media.tenor.com/xS8U8yIYyXwAAAAC/gamer-anime.gif" width="350" />
-</p>

@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # roda todo dia à meia-noite (opcional)
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
 
 permissions:
   contents: write
@@ -14,28 +14,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Generate snake.svg
-        # Platane/snk gera a animação. Ajuste github_user_name se necessário.
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: ggustavo-lac
           outputs: dist/snake.svg
 
-      - name: List dist for debug
-        run: |
-          echo "Conteúdo do diretório atual:"
-          ls -la
-          echo "Conteúdo de dist (se existir):"
-          ls -la dist || true
-
-      - name: Commit and push snake.svg to 'output' branch
-        uses: EndBug/add-and-commit@v9
+      - name: Deploy SVG to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: "chore: update snake.svg"
-          add: "dist/snake.svg"
           branch: output
+          folder: dist
+

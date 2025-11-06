@@ -44,17 +44,28 @@
 
 <h2 align="center">Social Medias</h2>
 
-###
-
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMWpjdW45a2Rrc216ejliMGFqNXk4OWUzOW53aTViNGFtanB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif"  />
 
-###
-
 <div align="center">
- <a href="https://www.instagram.com/guh.lacerdaa/?utm_source=ig_web_button_share_sheet" <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/guh.lacerdaa" target="_blank" rel="noopener noreferrer" title="Instagram — @guh.lacerdaa">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+
+  <!-- Gmail (abre o email) -->
+  <a href="mailto:gustavo4kps4@gmail.com" target="_blank" rel="noopener noreferrer" title="Enviar email para gustavo4kps4@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <!-- LinkedIn (substitua o # pelo seu link quando tiver) -->
+  <a href="#" target="_blank" rel="noopener noreferrer" title="LinkedIn — substitua pelo seu perfil">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
+  <!-- Outlook (abre o email) -->
+  <a href="mailto:gustavo.brito62@etec.sp.gov.br" target="_blank" rel="noopener noreferrer" title="Enviar email para gustavo4kps4@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
+  </a>
 </div>
 
 ###

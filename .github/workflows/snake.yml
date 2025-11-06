@@ -1,29 +1,39 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:    # permite rodar manualmente
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
+    - cron: "0 0 * * *" # gera todo dia à meia-noite UTC
 
 permissions:
-  contents: write
+  contents: write       # necessário para criar o branch output
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Baixa seu repositório
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2️⃣ Gera a animação
       - name: Generate Snake SVG
+        id: snake
         uses: Platane/snk@v3
         with:
           github_user_name: ggustavo-lac
           outputs: dist/snake.svg
 
-      - name: Deploy SVG to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output
-          folder: dist
+      # 3️⃣ Verifica se o arquivo foi criado (debug útil)
+      - name: Check generated file
+        run: |
+          echo "Conteúdo da pasta dist:"
+          ls -R dist
 
+      # 4️⃣ Publica o arquivo no branch "output"
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist

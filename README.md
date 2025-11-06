@@ -1,78 +1,81 @@
-<!-- 🥋 Gustavo Lacerda | Gamer & Developer README -->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<h1 align="center">Gustavo Lacerda</h1>
+###
 
-<p align="center">
-  <img src="https://media.tenor.com/ZsZh0IkjYgEAAAAC/taekwondo-kick.gif" width="400">
-</p>
+<h3 align="left">Hi, I'm Gustavo Lacerda, a student at ETEC Zona Leste, currently studying systems development.</h3>
 
-<h3 align="center">I'm a Systems Development student and Taekwondo athlete 🥋</h3>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ggustavo-lac&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggustavo-lac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggustavo-lac&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-## 🌐 Social Medias
-<p align="center">
-  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/seuinstagram" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+###
 
----
+<h2 align="center">Skills</h2>
 
-## 📚 Learning
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GGustavo-lac&theme=radical&hide_border=true" alt="streak graph" />
-</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LINUX-0A66C2?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JAVA-b30000?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+</div>
 
----
+###
 
-## 🎨 Design Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</p>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMWpjdW45a2Rrc216ejliMGFqNXk4OWUzOW53aTViNGFtanB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif"  />
 
----
+###
 
-## 🧠 IDE's
-<p align="center">
-  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/NETBEANS-002F6C?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
-</p>
+<h2 align="center">Social Medias</h2>
 
----
+###
 
-## ⚔️ Taekwondo Vibes
-<p align="center">
-  <img src="https://media.tenor.com/4mUjCH_nKxgAAAAd/taekwondo-fight.gif" width="250" />
-  <img src="https://media.tenor.com/bDeiqcNhq2cAAAAC/taekwondo-training.gif" width="250" />
-  <img src="https://media.tenor.com/e3NzzQAVZtYAAAAC/martial-arts-taekwondo.gif" width="250" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+</div>
 
----
+###
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GGustavo-lac&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGustavo-lac&layout=compact&theme=radical" height="180em" />
-</p>
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/ggustavo-lac/ggustavo-lac/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ggustavo-lac.ggustavo-lac&left_color=darkblue&right_color=darkred"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 
 <h3 align="center">🔥 Discipline creates results — in code and on the mat. 🔥</h3>
 

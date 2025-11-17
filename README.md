@@ -44,7 +44,7 @@
 
 <h2 align="center">Social Medias</h2>
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMWpjdW45a2Rrc216ejliMGFqNXk4OWUzOW53aTViNGFtanB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMWpjdW45a2Rrc216ejliMGFqNXk4OWUzOW53aTViNGFtanB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhsdHpzYXFkaG8xdHg5ZzJhNXVyaGNhc3QwdThwd3U0NnNjMzQ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZEl1yTi26mJzrI4VN/giphy.gif"  />
 
 <div align="center">
   <!-- Instagram -->

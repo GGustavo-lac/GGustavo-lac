@@ -27,7 +27,6 @@ Este é meu espaço para reunir código, estudos e experiências com desenvolvim
   <img src="assets/css.svg" height="36" alt="CSS3" />
   <img src="assets/javascript.svg" height="36" alt="JavaScript" />
   <img src="assets/java.svg" height="36" alt="Java" />
-  <img src="assets/python.svg" height="36" alt="Python" />
 </p>
 
 **Design e ferramentas**
@@ -36,16 +35,16 @@ Este é meu espaço para reunir código, estudos e experiências com desenvolvim
   <img src="assets/vscode.svg" height="36" alt="Visual Studio Code" />
   <img src="assets/figma.svg" height="36" alt="Figma" />
   <img src="assets/canva.svg" height="36" alt="Canva" />
-  <img src="assets/photoshop.svg" height="36" alt="Photoshop" />
+  <img src="assets/capcut.svg" height="36" alt="CapCut" />
 </p>
 
 ## Meus repositórios
 
 Explore meus códigos por linguagem:
 
-| Web | Java | Python |
+| Java | CSS | HTML |
 | :--- | :--- | :--- |
-| [Projetos com JavaScript ↗](https://github.com/ggustavo-lac?tab=repositories&language=javascript) | [Projetos com Java ↗](https://github.com/ggustavo-lac?tab=repositories&language=java) | [Projetos com Python ↗](https://github.com/ggustavo-lac?tab=repositories&language=python) |
+| [Projetos com Java ↗](https://github.com/ggustavo-lac?tab=repositories&language=java) | [Projetos com CSS ↗](https://github.com/ggustavo-lac?tab=repositories&language=css) | [Projetos com HTML ↗](https://github.com/ggustavo-lac?tab=repositories&language=html) |
 
 **[Ver todos os repositórios →](https://github.com/ggustavo-lac?tab=repositories)**
 
@@ -68,13 +67,18 @@ Explore meus códigos por linguagem:
 
 ## Vamos conversar
 
-<p>
-  <a href="https://www.instagram.com/guh.lacerdaa/"><img src="assets/instagram.svg" height="36" alt="Instagram — @guh.lacerdaa" /></a>
-  <a href="mailto:gustavo4kps4@gmail.com"><img src="assets/email.svg" height="36" alt="E-mail pessoal" /></a>
-  <a href="mailto:gustavo.brito62@etec.sp.gov.br"><img src="assets/etec.svg" height="36" alt="E-mail acadêmico" /></a>
+<p align="center">
+  <img src="https://media2.giphy.com/media/sZEl1yTi26mJzrI4VN/giphy.gif" height="150" alt="GIF do Dexter" />
 </p>
 
-[Instagram](https://www.instagram.com/guh.lacerdaa/) · [gustavo4kps4@gmail.com](mailto:gustavo4kps4@gmail.com) · [E-mail da ETEC](mailto:gustavo.brito62@etec.sp.gov.br)
+<p>
+  <a href="https://www.instagram.com/guh.lacerdaa/"><img src="assets/instagram.svg" height="36" alt="Instagram — @guh.lacerdaa" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-lacerda-brito-0174ab339/"><img src="assets/linkedin.svg" height="36" alt="LinkedIn — Gustavo Lacerda Brito" /></a>
+  <a href="mailto:gustavo4kps4@gmail.com"><img src="assets/email.svg" height="36" alt="E-mail pessoal" /></a>
+  <a href="mailto:gustavo.brito8@aluno.cps.gov.br"><img src="assets/etec.svg" height="36" alt="E-mail acadêmico" /></a>
+</p>
+
+[Instagram](https://www.instagram.com/guh.lacerdaa/) · [LinkedIn](https://www.linkedin.com/in/gustavo-lacerda-brito-0174ab339/) · [gustavo4kps4@gmail.com](mailto:gustavo4kps4@gmail.com) · [E-mail da ETEC](mailto:gustavo.brito8@aluno.cps.gov.br)
 
 <br />
 

@@ -65,7 +65,7 @@ Explore meus códigos por linguagem:
 
 <p><sub>O resumo considera repositórios públicos próprios, sem forks. As linguagens são contadas pela linguagem principal de cada repositório; não representam nível de domínio.</sub></p>
 
-## Vamos conversar
+## Contatos
 
 <p align="center">
   <img src="https://media2.giphy.com/media/sZEl1yTi26mJzrI4VN/giphy.gif" height="150" alt="GIF do Dexter" />
